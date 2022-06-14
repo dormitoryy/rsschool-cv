@@ -41,7 +41,6 @@ let result = '';
 
 Gomel State Technical University
 
-## Languages
+## English
 
-__Russian__ - native speaker
-__English__ - B1
+B1 - Intermediate
